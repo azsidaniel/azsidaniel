@@ -1,6 +1,3 @@
-<img align="right" height="590em" 
-src="https://raw.githubusercontent.com/gist/azsidaniel/94837d308d0ee805972097b05337afee/raw/9674008be4ac0430a866f185f595bd415a421d78/githubcard.svg"/>
-
 ### Hi there, Daniel Silva here. 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azsidaniel&color=yellow" alt="Profile views" /> </p>
 
