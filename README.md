@@ -7,7 +7,7 @@
 - 📚 I’m currently reading [Estruturas de Dados e Algoritmos com JavaScript](https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Com-Javascript/dp/8575226932/ref=asc_df_8575226932/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802639&hvpos=&hvnetw=g&hvrand=18052532847758117986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100937&hvtargid=pla-811121404201&psc=1)
 - 💬 Ask me about **Javascript, HTML, CSS, Typescript, React and React Native**
 - 📫 How to reach me: [azsidaniel@gmail.com](mailto:azsidaniel@gmail.com)
-- ⚡ Fun fact: I’m also a physicist and a photographer
+- ⚡ Fun fact: I’m also a physicist
 
 <br><br>
 
